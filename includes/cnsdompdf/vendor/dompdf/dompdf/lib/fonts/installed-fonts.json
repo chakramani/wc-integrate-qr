@@ -1,0 +1,33 @@
+{
+    "pt sans narrow": {
+        "normal": "\/Users\/dewebkiller\/Local Sites\/budapest-travel\/app\/public\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/pt_sans_narrow_normal_ac66468561b57467a8df5fd3e8522c93",
+        "bold": "pt_sans_narrow_bold_706658b6876403093afb0a4846187932"
+    },
+    "montserrat subrayada": {
+        "normal": "\/Users\/dewebkiller\/Local Sites\/budapest-travel\/app\/public\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_subrayada_normal_9f619d012481e252a8bff4749d8280ad",
+        "bold": "montserrat_subrayada_bold_00d0097200a5d133851166bff0b05d99"
+    },
+    "montserrat": {
+        "100_italic": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_100_italic_29a3d0d48c3a496fc38ee2fc5de2631b",
+        "200_italic": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_200_italic_4f44b4854d41b03700416102651740ec",
+        "300_italic": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_300_italic_f470586e928fb1e2bea7ffacde83d542",
+        "italic": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_italic_1d1c7e486829cf767bd74448043320cc",
+        "500_italic": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_500_italic_ec3f60b6c54e8ee79661303766ef10c4",
+        "600_italic": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_600_italic_766e7b3599c3644a98ca78f9ec673c56",
+        "bold_italic": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_bold_italic_09d0c6b0a1a677f9f012e260fdb4573e",
+        "800_italic": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_800_italic_b0b9e966ccaf0f151b509d68b7cf0836",
+        "900_italic": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_900_italic_418e9230abda42742236ce2b5271c664",
+        "100": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_100_6164641e1084aad4a517246be4e7214d",
+        "200": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_200_a265b0c8dd3071bb837672a6a3428c47",
+        "300": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_300_11be3eb1825a588a468235740322e12d",
+        "normal": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_normal_00833106404dc8458cdfb436c759f23d",
+        "500": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_500_1236ec90acb329158f494b3fcb44327e",
+        "600": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_600_485729d96603ccf9729bf58de2db0851",
+        "bold": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_bold_5da7810bf4e960efe50d20e94a894069",
+        "800": "\/home\/customer\/www\/staging.travel2budapest.com\/public_html\/wp-content\/plugins\/wc-integrate-qr\/includes\/cnsdompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_800_bb4fb217ae8181e31fdcc24e6f32a5f3",
+        "900": "montserrat_900_f1f1d05ddbc7bae79cf2388a44df7c8f"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_0d054c01a20249458ebc59d71623830f"
+    }
+}
